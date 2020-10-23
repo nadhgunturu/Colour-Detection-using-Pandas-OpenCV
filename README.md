@@ -29,4 +29,4 @@ with the computer vision library of Python that is OpenCV and Pandas.
 Run Python File:
 The beginner Python project is now complete, you can run the Python file from the command prompt. 
 Make sure to give an image path using ‘-i’ argument. If the image is in another directory, 
-then you need to give full path of the image:python color_detection.py -i <add your image path here>
+then you need to give full path of the image:python color_detection.py -i imagename.jpg
